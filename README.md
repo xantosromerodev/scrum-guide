@@ -399,3 +399,24 @@ Los Developers deben adherirse a la Definición de Terminado. Si hay varios Scru
 juntos en un producto, deben definir y cumplir mutuamente la misma Definición de Terminado.
 
 # Glosario de términos
+- **Scrum**: Marco de trabajo ágil para desarrollar productos complejos en iteraciones cortas llamadas Sprints.
+- **Sprint**: Iteración de trabajo con duración fija (usualmente 2-4 semanas) donde se crea un incremento de producto potencialmente entregable.
+- **Product Owner (PO)**: Responsable de maximizar el valor del producto. Define y prioriza los elementos en el Product Backlog.
+- **Scrum Master**: Facilitador del equipo Scrum. Elimina impedimentos, guía en la adopción de Scrum y asegura su correcta aplicación.
+- **Development Team**: Grupo autoorganizado que crea el incremento de producto durante el Sprint.
+- **Product Backlog**: Lista priorizada de todo lo que se necesita en el producto. Es gestionada por el Product Owner.
+- **Sprint Backlog**: Conjunto de elementos del Product Backlog seleccionados para el Sprint, junto con un plan para entregar el incremento.
+- **Increment**: Suma de todos los elementos completados durante un Sprint y los Sprints anteriores. Debe estar “Done” (hecho) y ser utilizable.
+- **Definition of Done (DoD)**: Criterios claros que definen cuándo un elemento está terminado y listo para entregar.
+- **User Story**: Descripción breve de una funcionalidad vista desde la perspectiva del usuario o cliente final.
+- **Epic**: User Story grande que se divide en historias más pequeñas.
+- **Sprint Planning**: Reunión donde se planifica qué se hará en el Sprint y cómo se hará.
+- **Daily Scrum**: Reunión diaria (máx. 15 min) para sincronizar actividades y planificar el día de trabajo.
+- **Sprint Review**: Reunión al final del Sprint para inspeccionar el incremento y adaptar el Product Backlog si es necesario.
+- **Sprint Retrospective**: Reunión para reflexionar sobre el proceso y definir acciones de mejora para el siguiente Sprint.
+- **Burndown Chart**: Gráfico que muestra el trabajo pendiente versus el tiempo, ayudando a visualizar el progreso hacia el objetivo del Sprint.
+- **Velocity**: Cantidad promedio de trabajo completado por Sprint, utilizada para estimaciones futuras.
+- **Impediment**: Obstáculo que bloquea o ralentiza al equipo en su trabajo. El Scrum Master los elimina o ayuda a eliminarlos.
+- **Timebox**: Periodo de tiempo máximo para un evento Scrum (e.g., Sprint Planning timeboxed a 8 horas para un Sprint de un mes).
+- **Refinement**: Proceso de revisar y detallar los elementos del Product Backlog para prepararlos antes de futuros Sprints.
+- **PBI**: Product Backlog Items
