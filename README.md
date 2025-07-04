@@ -1,6 +1,32 @@
 
 # La guía definitiva de Scrum
-La Guía de Scrum contiene la definición de Scrum. Cada elemento del marco de trabajo tiene un
+
+## 📚 Tabla de Contenidos
+- [Introducción](#introducción)
+- [Definición de Scrum](#definición-de-scrum)
+- [Teoría de Scrum](#teoría-de-scrum)
+  - [Transparencia](#transparencia)
+  - [Inspección](#inspección)
+  - [Adapptación](#adaptación)
+- [Valores de Scrum](#valores-de-scrum)
+- [Scrum Team](#scrum-team)
+  - [Product Owner](#product-owner)
+  - [Scrum Master](#scrum-master)
+  - [Development Team](#development-team)
+- [Eventos de Scrum](#eventos-de-scrum)
+  - [Sprint](#sprint)
+  - [Sprint Plannig](#sprint-planning)
+  - [Daily Scrum](#daily-scrum)
+  - [Sprint Review](#sprint-review)
+  - [Sprint Retrospective](#sprint-retrospective)
+- [Artefactos de Scrum](#artefactos-de-scrum)
+  - [Product Backlog](#product-backlog)
+  - [Sprint Backlog](#sprint-backlog)
+  - [Increment](#increment)
+- [Glosario de Términos](#glosario-de-términos)
+
+# Introducción
+La guía de Scrum contiene la definición de Scrum. Cada elemento del marco de trabajo tiene un
 propósito específico que es esencial para el valor general y los resultados obtenidos con Scrum. Cambiar
 el diseño o las ideas esenciales de Scrum, omitir elementos o no seguir las reglas de Scrum, oculta los
 problemas y limita los beneficios de Scrum, e incluso potencialmente lo vuelve inútil.
@@ -17,7 +43,7 @@ En pocas palabras, Scrum requiere un Scrum Master para fomentar un entorno donde
 4.	Repita
 
 Scrum es simple. Pruébelo como está y determine si su filosofía, teoría y estructura ayudan a lograr
-objetivos y crear valor. El marco de trabajo Scrum es incompleto de manera intencional, solo define las
+objetivos y crear valor. El marco de trabajo **Scrum es incompleto de manera intencional**, solo define las
 partes necesarias para implementar la teoría de Scrum. Scrum se basa en la inteligencia colectiva de las
 personas que lo utilizan. En lugar de proporcionar a las personas instrucciones detalladas, las reglas de
 Scrum guían sus relaciones e interacciones.
@@ -111,7 +137,7 @@ Todo el Scrum Team es responsable de crear un Increment valioso y útil en cada 
 tres responsabilidades específicas dentro del Scrum Team: los Developers, el Product Owner y el Scrum
 Master.
 
-## Product Owner (PO)
+## Product Owner
 El Product Owner es responsable de maximizar el valor del producto resultante del trabajo del Scrum
 Team. La forma en que esto se hace puede variar ampliamente entre organizaciones, Scrum Teams e
 individuos.
@@ -380,7 +406,7 @@ El trabajo no puede considerarse parte de un Increment a menos que cumpla con la
 Terminado.
 
 ### Compromiso: Definición de Terminado
-La Definición de Terminado es una descripción formal del estado del Increment cuando cumple con las
+La Definición de Terminado es una **descripción formal del estado del Increment** cuando cumple con las
 medidas de calidad requeridas para el producto.
 
 En el momento en que un elemento del Product Backlog cumple con la Definición de Terminado, nace
