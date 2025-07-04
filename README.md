@@ -7,7 +7,7 @@
 - [Teoría de Scrum](#teoría-de-scrum)
   - [Transparencia](#transparencia)
   - [Inspección](#inspección)
-  - [Adapptación](#adaptación)
+  - [Adaptación](#adaptación)
 - [Valores de Scrum](#valores-de-scrum)
 - [Scrum Team](#scrum-team)
   - [Product Owner](#product-owner)
