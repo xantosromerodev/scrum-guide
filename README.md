@@ -1,7 +1,7 @@
 
 # La guía definitiva de Scrum
 
-## 📚 Tabla de Contenidos
+**📚 Tabla de Contenidos**
 - [Introducción](#introducción)
 - [Definición de Scrum](#definición-de-scrum)
 - [Teoría de Scrum](#teoría-de-scrum)
@@ -35,12 +35,12 @@ problemas y limita los beneficios de Scrum, e incluso potencialmente lo vuelve i
 **Scrum es un marco de trabajo** liviano que ayuda a las personas, equipos y organizaciones a generar valor
 a través de soluciones adaptativas para problemas complejos.
 
-En pocas palabras, Scrum requiere un Scrum Master para fomentar un entorno donde:
+En pocas palabras, **Scrum requiere un Scrum Master** para fomentar un entorno donde:
 
 1. Un **Product Owner** ordena el trabajo de un problema complejo en un Product Backlog.
-2.	El **Scrum Team** convierte una selección del trabajo en un Increment de valor durante un Sprint.
-3.	El **Scrum Team** y sus interesados inspeccionan los resultados y se adaptan para el próximo Sprint.
-4.	Repita
+2. El **Scrum Team** convierte una selección del trabajo en un Increment de valor durante un Sprint.
+3. El **Scrum Team** y sus interesados inspeccionan los resultados y se adaptan para el próximo Sprint.
+4. Repita.
 
 Scrum es simple. Pruébelo como está y determine si su filosofía, teoría y estructura ayudan a lograr
 objetivos y crear valor. El marco de trabajo **Scrum es incompleto de manera intencional**, solo define las
@@ -66,7 +66,7 @@ el Sprint. Estos eventos funcionan porque implementan los pilares empíricos de 
 inspección y adaptación.
 
 ## Transparencia
-El proceso y el trabajo emergentes deben ser visibles tanto para quienes realizan el trabajo como para
+El **proceso y el trabajo emergentes deben ser visibles** tanto para quienes realizan el trabajo como para
 quienes lo reciben. Con Scrum, las decisiones importantes se basan en el estado percibido de sus tres
 artefactos formales. Los artefactos que tienen poca transparencia pueden llevar a decisiones que
 disminuyan el valor y aumenten el riesgo.
@@ -103,7 +103,7 @@ sí para ser personas capaces e independientes, y son respetados como tales por 
 trabajan. Los miembros del Scrum Team tienen el coraje de hacer lo correcto, para trabajar en
 problemas difíciles.
 
-Estos valores dan dirección al Scrum Team con respecto a su trabajo, acciones y comportamiento. Las
+Estos valores dan dirección al Scrum Team con respecto a su trabajo, acciones y comportamientos. Las
 decisiones que se tomen, los pasos que se den y la forma en que se use Scrum deben reforzar estos
 valores, no disminuirlos ni socavarlos. Los miembros del Scrum Team aprenden y exploran los valores
 mientras trabajan con los eventos y artefactos Scrum. Cuando el Scrum Team y las personas con las que
@@ -143,7 +143,6 @@ Team. La forma en que esto se hace puede variar ampliamente entre organizaciones
 individuos.
 
 El Product Owner también es responsable de la gestión efectiva del Product Backlog, lo que incluye:
-
 -	Desarrollar y comunicar explícitamente el Objetivo del Producto;
 -	Crear y comunicar claramente los elementos del Product Backlog;
 -	Ordenar los elementos del Product Backlog; y,
@@ -152,16 +151,16 @@ El Product Owner también es responsable de la gestión efectiva del Product Bac
 El Product Owner puede realizar el trabajo anterior o puede delegar la responsabilidad en otros.
 Independientemente de ello, el Product Owner sigue siendo el responsable de que el trabajo se realice.
 
-Para que los Product Owners tengan éxito, toda la organización debe respetar sus decisiones. Estas
+Para que los **Product Owners tengan éxito, toda la organización debe respetar sus decisiones**. Estas
 decisiones son visibles en el contenido y el orden del Product Backlog, y a través del Increment
 inspeccionable en la Sprint Review.
 
-El Product Owner es una persona, no un comité. El Product Owner puede representar las necesidades de
+El **Product Owner es una persona, no un comité**. El Product Owner puede representar las necesidades de
 muchos interesados en el Product Backlog. Aquellos que quieran cambiar el Product Backlog pueden
 hacerlo intentando convencer al Product Owner.
 
 ## Scrum Master
-El Scrum Master es responsable de establecer Scrum como se define en la Guía de Scrum. Lo hace
+El Scrum Master es responsable de establecer Scrum como se define en la guía de Scrum. Lo hace
 ayudando a todos a comprender la teoría y la práctica de Scrum, tanto dentro del Scrum Team como de
 la organización.
 
@@ -170,22 +169,19 @@ Team en la mejora de sus prácticas, dentro del marco de trabajo de Scrum.
 
 Los Scrum Masters son verdaderos líderes que sirven al Scrum Team y a la organización en general.
 
-El Scrum Master sirve al Scrum Team de varias maneras, que incluyen:
-
+El **Scrum Master sirve al Scrum Team** de varias maneras, que incluyen:
 - Guiar a los miembros del equipo en ser autogestionados y multifuncionales;
 - Ayudar al Scrum Team a enfocarse en crear Increments de alto valor que cumplan con la Definición de Terminado;
 - Procurar la eliminación de impedimentos para el progreso del Scrum Team; y,
-- Asegurarse de que todos los eventos de Scrum se lleven a cabo y sean positivos, productivos y se mantengan dentro de los límites de tiempo recomendados en esta Guía.
+- Asegurarse de que todos los eventos de Scrum se lleven a cabo y sean positivos, productivos y se mantengan dentro de los límites de tiempo recomendados en esta guía.
 
-El Scrum Master sirve al Product Owner de varias maneras, que incluyen:
-
+El **Scrum Master sirve al Product Owner** de varias maneras, que incluyen:
 - Ayudar a encontrar técnicas para una definición efectiva de Objetivos del Producto y la gestión del Product Backlog;
 - Ayudar al Scrum Team a comprender la necesidad de tener elementos del Product Backlog claros y concisos;
 - Ayudar a establecer una planificación empírica de productos para un entorno complejo; y,
 - Facilitar la colaboración de los interesados según se solicite o necesite.
 
-El Scrum Master sirve a la organización de varias maneras, que incluyen:
-
+El **Scrum Master sirve a la organización** de varias maneras, que incluyen:
 - Liderar, capacitar y guiar a la organización en su adopción de Scrum;
 - Planificar y asesorar implementaciones de Scrum dentro de la organización;
 - Ayudar a los empleados y los interesados a comprender y aplicar un enfoque empírico para el trabajo complejo; y,
@@ -197,7 +193,6 @@ en cada Sprint son Developers.
 
 Las habilidades específicas que necesitan los Developers suelen ser amplias y variarán según el ámbito
 de trabajo. Sin embargo, los Developers siempre son responsables de:
-
 - Crear un plan para el Sprint, el Sprint Backlog;
 - Inculcar calidad al adherirse a una Definición de Terminado;
 - Adaptar su plan cada día hacia el Objetivo del Sprint; y,
@@ -213,7 +208,7 @@ Lo óptimo es que todos los eventos se celebren al mismo tiempo y en el mismo lu
 complejidad.
 
 ## Sprint
-Los Sprints son el corazón de Scrum, donde las ideas se convierten en valor.
+Los Sprints **son el corazón de Scrum**, donde las ideas se convierten en valor.
 
 Son eventos de duración fija de un mes o menos para crear consistencia. Un nuevo Sprint comienza
 inmediatamente después de la conclusión del Sprint anterior.
@@ -222,7 +217,6 @@ Todo el trabajo necesario para lograr el Objetivo del Producto, incluido la Spri
 Sprint Review y Sprint Retrospective, ocurre dentro de los Sprints.
 
 Durante el Sprint:
-
 - No se realizan cambios que pongan en peligro el Objetivo del Sprint;
 - La calidad no disminuye;
 - El Product Backlog se refina según sea necesario; y,
@@ -240,8 +234,8 @@ completado (burn‐ups) o flujos acumulativos (cumulative flows). Si bien han de
 reemplazan la importancia del empirismo. En entornos complejos, se desconoce lo que sucederá. Solo lo
 que ya ha sucedido se puede utilizar para la toma de decisiones con miras al futuro.
 
-Un Sprint podría cancelarse si el Objetivo del Sprint se vuelve obsoleto. Solo el Product Owner tiene la
-autoridad para cancelar el Sprint.
+Un Sprint podría cancelarse si el Objetivo del Sprint se vuelve obsoleto. **Solo el Product Owner tiene la
+autoridad para cancelar el Sprint**.
 
 ## Sprint Planning
 La Sprint Planning inicia el Sprint al establecer el trabajo que se realizará para el Sprint. El Scrum Team
