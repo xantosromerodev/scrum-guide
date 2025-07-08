@@ -199,7 +199,7 @@ de trabajo. Sin embargo, los Developers siempre son responsables de:
 - Responsabilizarse mutuamente como profesionales.
 
 # Eventos de Scrum
-El Sprint es un contenedor para todos los demás eventos. Cada evento en Scrum es una oportunidad
+**El Sprint es un contenedor para todos los demás eventos**. Cada evento en Scrum es una oportunidad
 formal para inspeccionar y adaptar los artefactos Scrum. Estos eventos están diseñados específicamente
 para habilitar la transparencia requerida. No operar cualquier evento según lo prescrito resulta en la
 pérdida de oportunidades para inspeccionar y adaptarse. Los eventos se utilizan en Scrum para crear
@@ -242,8 +242,8 @@ La Sprint Planning inicia el Sprint al establecer el trabajo que se realizará p
 crea este plan resultante mediante trabajo colaborativo.
 
 El Product Owner se asegura de que los asistentes estén preparados para discutir los elementos más
-importantes del Product Backlog y cómo se relacionan con el Objetivo del Producto. El Scrum Team
-también puede invitar a otras personas a asistir a la Sprint Planning para brindar asesoramiento.
+importantes del Product Backlog y cómo se relacionan con el Objetivo del Producto. El **Scrum Team
+también puede invitar a otras personas a asistir a la Sprint Planning para brindar asesoramiento**.
 
 La Sprint Planning aborda los siguientes temas:
 
@@ -269,17 +269,17 @@ descomponiendo los elementos del Product Backlog en elementos de trabajo más pe
 menos. La forma de hacerlo queda a criterio exclusivo de los Developers. Nadie más les dice cómo
 convertir los elementos del Product Backlog en Increments de valor.
 
-El Objetivo del Sprint, los elementos del Product Backlog seleccionados para el Sprint, más el plan para
-entregarlos se denominan juntos Sprint Backlog.
+**El Objetivo del Sprint, los elementos del Product Backlog seleccionados para el Sprint, más el plan para
+entregarlos se denominan juntos Sprint Backlog**.
 
-La Sprint Planning tiene un límite de tiempo de máximo ocho horas para un Sprint de un mes. Para
+La **t**. Para
 Sprints más cortos, el evento suele ser de menor duración.
 
 ## Daily Scrum
 El propósito de la Daily Scrum es inspeccionar el progreso hacia el Objetivo del Sprint y adaptar el Sprint
-Backlog según sea necesario, ajustando el trabajo planificado entrante.3
+Backlog según sea necesario, ajustando el trabajo planificado entrante.
 
-La Daily Scrum es un evento de 15 minutos para los Developers del Scrum Team. Para reducir la
+La **Daily Scrum es un evento de 15 minutos** para los Developers del Scrum Team. Para reducir la
 complejidad, se lleva a cabo a la misma hora y en el mismo lugar todos los días hábiles del Sprint. Si el
 Product Owner o Scrum Master están trabajando activamente en elementos del Sprint Backlog,
 participan como Developers.
@@ -288,8 +288,8 @@ Los Developers pueden seleccionar la estructura y las técnicas que deseen, siem
 se centre en el progreso hacia el Objetivo del Sprint y produzca un plan viable para el siguiente día de
 trabajo. Esto crea enfoque y mejora la autogestión.
 
-Las Daily Scrums mejoran la comunicación, identifican impedimentos, promueven la toma rápida de
-decisiones y, en consecuencia, eliminan la necesidad de otras reuniones.
+Las **Daily Scrums mejoran la comunicación, identifican impedimentos, promueven la toma rápida de
+decisiones y, en consecuencia, eliminan la necesidad de otras reuniones**.
 
 La Daily Scrum no es el único momento en el que los Developers pueden ajustar su plan. A menudo se
 reúnen durante el día para discusiones más detalladas sobre cómo adaptar o volver a planificar el resto
@@ -305,11 +305,11 @@ cambiado en su entorno. Con base en esta información, los asistentes colaboran 
 continuación. El Product Backlog también se puede ajustar para satisfacer nuevas oportunidades. La
 Sprint Review es una sesión de trabajo y el Scrum Team debe evitar limitarla a una presentación.
 
-La Sprint Review es el penúltimo evento del Sprint y tiene un límite de tiempo de máximo cuatro horas
-para un Sprint de un mes. Para Sprints más cortos, el evento suele ser de menor duración.
+La **Sprint Review es el penúltimo evento del Sprint y tiene un límite de tiempo de máximo cuatro horas
+para un Sprint de un mes**. Para Sprints más cortos, el evento suele ser de menor duración.
 
 ## Sprint Retrospective
-El propósito de la Sprint Retrospective es planificar formas de aumentar la calidad y la efectividad.
+El propósito de la Sprint Retrospective es **planificar formas de aumentar la calidad y la efectividad**.
 
 El Scrum Team inspecciona cómo fue el último Sprint con respecto a las personas, las interacciones, los
 procesos, las herramientas y su Definición de Terminado. Los elementos inspeccionados suelen variar
@@ -321,8 +321,8 @@ El Scrum Team identifica los cambios más útiles para mejorar su efectividad. L
 impactantes se abordan lo antes posible. Incluso se pueden agregar al Sprint Backlog para el próximo
 Sprint.
 
-La Sprint Retrospective concluye el Sprint. Tiene un tiempo limitado a máximo tres horas para un Sprint
-de un mes. Para Sprints más cortos, el evento suele ser de menor duración.
+La **Sprint Retrospective concluye el Sprint. Tiene un tiempo limitado a máximo tres horas para un Sprint
+de un mes**. Para Sprints más cortos, el evento suele ser de menor duración.
 
 # Artefactos de Scrum
 Los artefactos de Scrum representan trabajo o valor. Están diseñados para maximizar la transparencia
@@ -331,7 +331,6 @@ adaptación.
 
 Cada artefacto contiene un compromiso para garantizar que proporcione información que mejore la
 transparencia y el enfoque frente al cual se pueda medir el progreso:
-
 - Para el Product Backlog, es el Objetivo del Producto.
 - Para el Sprint Backlog, es el Objetivo del Sprint.
 - Para el Increment es la Definición de Terminado.
@@ -366,11 +365,11 @@ El Objetivo del Producto es el objetivo a largo plazo del Scrum Team. Ellos debe
 un objetivo antes de asumir el siguiente.
 
 ## Sprint Backlog
-El Sprint Backlog se compone del Objetivo del Sprint (por qué), el conjunto de elementos del Product
+El Sprint Backlog se compone del **Objetivo del Sprint (por qué), el conjunto de elementos del Product
 Backlog seleccionados para el Sprint (qué), así como un plan de acción para entregar el Increment
-(cómo).
+(cómo)**.
 
-El Sprint Backlog es un plan realizado por y para los Developers. Es una imagen muy visible y en tiempo
+El **Sprint Backlog es un plan realizado por y para los Developers**. Es una imagen muy visible y en tiempo
 real del trabajo que los Developers planean realizar durante el Sprint para lograr el Objetivo del Sprint.
 En consecuencia, el Sprint Backlog se actualiza a lo largo del Sprint a medida que se aprende más. Debe
 tener suficientes detalles para que puedan inspeccionar su progreso en la Daily Scrum.
@@ -396,15 +395,15 @@ Sprint Review apoyando así el empirismo. Sin embargo, se puede entregar un Incr
 interesados antes del final del Sprint. La Sprint Review nunca debe considerarse una puerta para liberar
 valor.
 
-El trabajo no puede considerarse parte de un Increment a menos que cumpla con la Definición de
-Terminado.
+**El trabajo no puede considerarse parte de un Increment a menos que cumpla con la Definición de
+Terminado**.
 
 ### Compromiso: Definición de Terminado
 La Definición de Terminado es una **descripción formal del estado del Increment** cuando cumple con las
 medidas de calidad requeridas para el producto.
 
-En el momento en que un elemento del Product Backlog cumple con la Definición de Terminado, nace
-un Increment.
+**En el momento en que un elemento del Product Backlog cumple con la Definición de Terminado, nace
+un Increment.**
 
 La Definición de Terminado crea transparencia al brindar a todos un entendimiento compartido de qué
 trabajo se completó como parte del Increment. Si un elemento del Product Backlog no cumple con la
