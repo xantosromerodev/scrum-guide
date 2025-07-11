@@ -15,7 +15,7 @@
   - [Development Team](#development-team)
 - [Eventos de Scrum](#eventos-de-scrum)
   - [Sprint](#sprint)
-  - [Sprint Plannig](#sprint-planning)
+  - [Sprint Planning](#sprint-planning)
   - [Daily Scrum](#daily-scrum)
   - [Sprint Review](#sprint-review)
   - [Sprint Retrospective](#sprint-retrospective)
@@ -53,7 +53,7 @@ prácticas existentes o las hace innecesarias. Scrum hace visible la eficacia re
 actuales de gestión, entorno y trabajo, de modo que se puedan realizar mejoras.
 
 # Teoría de Scrum
-Scrum se basa en el empirismo y el pensamiento Lean. El empirismo afirma que el conocimiento
+**Scrum se basa en el empirismo y el pensamiento Lean**. El empirismo afirma que el conocimiento
 proviene de la experiencia y de la toma de decisiones con base en lo observado. El pensamiento Lean
 reduce el desperdicio y se enfoca en lo esencial.
 
@@ -112,11 +112,11 @@ adaptación cobran vida y generan confianza.
 
 # Scrum Team
 La unidad fundamental de Scrum es un pequeño equipo de personas, un Scrum Team. El Scrum Team
-consta de un Scrum Master, un Product Owner y Developers. Dentro de un Scrum Team, no hay
-subequipos ni jerarquías. Es una unidad cohesionada de profesionales enfocados en un objetivo a la vez,
+consta de un Scrum Master, un Product Owner y Developers. **Dentro de un Scrum Team, no hay
+subequipos ni jerarquías**. Es una unidad cohesionada de profesionales enfocados en un objetivo a la vez,
 el Objetivo del Producto.
 
-Los Scrum Teams son multifuncionales, lo que significa que los miembros tienen todas las habilidades
+**Los Scrum Teams son multifuncionales**, lo que significa que los miembros tienen todas las habilidades
 necesarias para crear valor en cada Sprint. También se autogestionan, lo que significa que deciden
 internamente quién hace qué, cuándo y cómo.
 
@@ -234,7 +234,7 @@ completado (burn‐ups) o flujos acumulativos (cumulative flows). Si bien han de
 reemplazan la importancia del empirismo. En entornos complejos, se desconoce lo que sucederá. Solo lo
 que ya ha sucedido se puede utilizar para la toma de decisiones con miras al futuro.
 
-Un Sprint podría cancelarse si el Objetivo del Sprint se vuelve obsoleto. **Solo el Product Owner tiene la
+**Un Sprint podría cancelarse si el Objetivo del Sprint se vuelve obsoleto. Solo el Product Owner tiene la
 autoridad para cancelar el Sprint**.
 
 ## Sprint Planning
@@ -247,13 +247,13 @@ también puede invitar a otras personas a asistir a la Sprint Planning para brin
 
 La Sprint Planning aborda los siguientes temas:
 
-Tema uno: ¿Por qué es valioso este Sprint?
+Tema uno: **¿Por qué es valioso este Sprint?**
 El Product Owner propone cómo el producto podría Incrementar su valor y utilidad en el Sprint actual.
 Luego, todo el Scrum Team colabora para definir un Objetivo del Sprint que comunica por qué el Sprint
 es valioso para los interesados. El Objetivo del Sprint debe completarse antes de que termine la Sprint
 Planning.
 
-Tema dos: ¿Qué se puede hacer en este Sprint?
+Tema dos: **¿Qué se puede hacer en este Sprint?**
 A través de una conversación con el Product Owner, los Developers seleccionan elementos del Product
 Backlog para incluirlos en el Sprint actual. El Scrum Team puede refinar estos elementos durante este
 proceso, lo que aumenta la comprensión y la confianza.
@@ -262,7 +262,7 @@ Seleccionar cuánto se puede completar dentro de un Sprint puede ser un desafío
 más sepan los Developers sobre su desempeño pasado, su capacidad actual y su Definición de
 Terminado, más confiados estarán en sus pronósticos para el Sprint.
 
-Tema tres: ¿Cómo se realizará el trabajo elegido?
+Tema tres: **¿Cómo se realizará el trabajo elegido?**
 Para cada elemento del Product Backlog seleccionado, los Developers planifican el trabajo necesario
 para crear un Increment que cumpla con la Definición de Terminado. A menudo, esto se hace
 descomponiendo los elementos del Product Backlog en elementos de trabajo más pequeños de un día o
@@ -272,12 +272,12 @@ convertir los elementos del Product Backlog en Increments de valor.
 **El Objetivo del Sprint, los elementos del Product Backlog seleccionados para el Sprint, más el plan para
 entregarlos se denominan juntos Sprint Backlog**.
 
-La **t**. Para
+La **Sprint Planning tiene un límite de tiempo de máximo ocho horas para un Sprint de un mes**. Para
 Sprints más cortos, el evento suele ser de menor duración.
 
 ## Daily Scrum
-El propósito de la Daily Scrum es inspeccionar el progreso hacia el Objetivo del Sprint y adaptar el Sprint
-Backlog según sea necesario, ajustando el trabajo planificado entrante.
+**El propósito de la Daily Scrum es inspeccionar el progreso hacia el Objetivo del Sprint y adaptar el Sprint
+Backlog según sea necesario, ajustando el trabajo planificado entrante.**
 
 La **Daily Scrum es un evento de 15 minutos** para los Developers del Scrum Team. Para reducir la
 complejidad, se lleva a cabo a la misma hora y en el mismo lugar todos los días hábiles del Sprint. Si el
@@ -296,8 +296,8 @@ reúnen durante el día para discusiones más detalladas sobre cómo adaptar o v
 del trabajo del Sprint.
 
 ## Sprint Review
-El propósito de la Sprint Review es inspeccionar el resultado del Sprint y determinar futuras
-adaptaciones. El Scrum Team presenta los resultados de su trabajo a los interesados clave y se discute el
+**El propósito de la Sprint Review es inspeccionar el resultado del Sprint y determinar futuras
+adaptaciones**. El Scrum Team presenta los resultados de su trabajo a los interesados clave y se discute el
 progreso hacia el Objetivo del Producto.
 
 Durante el evento, el Scrum Team y los interesados revisan lo que se logró en el Sprint y lo que ha
@@ -309,7 +309,7 @@ La **Sprint Review es el penúltimo evento del Sprint y tiene un límite de tiem
 para un Sprint de un mes**. Para Sprints más cortos, el evento suele ser de menor duración.
 
 ## Sprint Retrospective
-El propósito de la Sprint Retrospective es **planificar formas de aumentar la calidad y la efectividad**.
+**El propósito de la Sprint Retrospective es planificar formas de aumentar la calidad y la efectividad**.
 
 El Scrum Team inspecciona cómo fue el último Sprint con respecto a las personas, las interacciones, los
 procesos, las herramientas y su Definición de Terminado. Los elementos inspeccionados suelen variar
@@ -325,21 +325,21 @@ La **Sprint Retrospective concluye el Sprint. Tiene un tiempo limitado a máximo
 de un mes**. Para Sprints más cortos, el evento suele ser de menor duración.
 
 # Artefactos de Scrum
-Los artefactos de Scrum representan trabajo o valor. Están diseñados para maximizar la transparencia
+**Los artefactos de Scrum representan trabajo o valor**. Están diseñados para maximizar la transparencia
 de la información clave. Por lo tanto, todas las personas que los inspeccionan tienen la misma base de
 adaptación.
 
 Cada artefacto contiene un compromiso para garantizar que proporcione información que mejore la
 transparencia y el enfoque frente al cual se pueda medir el progreso:
-- Para el Product Backlog, es el Objetivo del Producto.
-- Para el Sprint Backlog, es el Objetivo del Sprint.
-- Para el Increment es la Definición de Terminado.
+- **Para el Product Backlog, es el Objetivo del Producto.**
+- **Para el Sprint Backlog, es el Objetivo del Sprint.**
+- **Para el Increment es la Definición de Terminado.**
 
 Estos compromisos existen para reforzar el empirismo y los valores de Scrum para el Scrum Team y sus
 interesados.
 
 ## Product Backlog
-El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto. Es
+**El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto**. Es
 la única fuente del trabajo realizado por el Scrum Team.
 
 Los elementos del Product Backlog que el Scrum Team puede dar por Terminados dentro de un Sprint se
@@ -386,9 +386,9 @@ diferente de lo que esperaban, colaboran con el Product Owner para negociar el a
 Backlog dentro del Sprint sin afectar el Objetivo del Sprint.
 
 ## Increment
-Un Increment es un peldaño concreto hacia el Objetivo del Producto. Cada Increment se suma a todos
+**Un Increment es un peldaño concreto hacia el Objetivo del Producto. Cada Increment se suma a todos
 los Increments anteriores y se verifica minuciosamente, lo que garantiza que todos los Increments
-funcionen juntos. Para proporcionar valor, el Increment debe ser utilizable.
+funcionen juntos. Para proporcionar valor, el Increment debe ser utilizable.**
 
 Se pueden crear múltiples Increments dentro de un Sprint. La suma de los Increments se presenta en la
 Sprint Review apoyando así el empirismo. Sin embargo, se puede entregar un Increment a los
